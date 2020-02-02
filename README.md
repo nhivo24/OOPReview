@@ -36,7 +36,7 @@ Giả sử chúng ta có một lớp định nghĩa phương thức Cộng:
     return s1.Concat(s2);
   }
 }
-Hai phương thức Cong định nghĩa trong cùng lớp là đặc điểm khác biệt thứ hai giữa Overloading và Overriding.
+   Hai phương thức Cong định nghĩa trong cùng lớp là đặc điểm khác biệt thứ hai giữa Overloading và Overriding.
 
 7. Các access modifier trong java: public, private, protected.
 -Public: có thể truy cập ở mọi nơi-trong class, class con, các class ngoài package.
