@@ -39,6 +39,6 @@ Giả sử chúng ta có một lớp định nghĩa phương thức Cộng:
    Hai phương thức Cong định nghĩa trong cùng lớp là đặc điểm khác biệt thứ hai giữa Overloading và Overriding.
 
 7. Các access modifier trong java: public, private, protected.
--Public: có thể truy cập ở mọi nơi-trong class, class con, các class ngoài package.
--Private: Chỉ trong class đó mới truy cập được.
--Protected: Truy cập trong class của nó và trong 1 package. Ngoài ra, các class con ở ngoài package cũng có thể truy cập được.
+- Public: có thể truy cập ở mọi nơi-trong class, class con, các class ngoài package.
+- Private: Chỉ trong class đó mới truy cập được.
+- Protected: Truy cập trong class của nó và trong 1 package. Ngoài ra, các class con ở ngoài package cũng có thể truy cập được.
